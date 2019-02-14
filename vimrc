@@ -1,7 +1,7 @@
 set nu
 
-nmap 0 ^
-set ruler			" Map 0 to first character in line
+nmap 0 ^			" Map 0 to first character in line
+set ruler			
 set scrolloff=4                 " Keep at least 4 lines below cursor
 
 nmap j gj 			" Move up and down by visible lines if current line is wrapped
