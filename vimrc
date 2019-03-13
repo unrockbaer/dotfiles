@@ -24,3 +24,6 @@ command! Q q " Bind :Q to :q
 command! Qall qall
 command! QA qall
 command! E e
+command! W w
+command! Wq wq
+command! WQ wq
