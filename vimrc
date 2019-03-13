@@ -1,5 +1,3 @@
-"syntax on
-"colorscheme gruvbox
 set nu
 set tabstop=4
 nmap 0 ^			            " Map 0 to first character in line
