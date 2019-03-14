@@ -3,8 +3,8 @@
 
 "general
 
+syntax on                       " color highlighting on
 set nocompatible                " be iMproved, required
-filetype off                    " required
 set nu                          " set numbers on
 nmap 0 ^			            " Map 0 to first character in line
 set ruler		                " display line, column, virtual column, relative position	
