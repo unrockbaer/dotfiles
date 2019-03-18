@@ -8,7 +8,7 @@ set nocompatible                " be iMproved, required
 set nu                          " set numbers on
 nmap 0 ^			            " Map 0 to first character in line
 set ruler		                " display line, column, virtual column, relative position	
-"set scrolloff=4                 " Keep at least 4 lines below cursor
+set scrolloff=4                 " Keep at least 4 lines below cursor
 set hidden                      " opening new file without saving changes puts current file in hidden
 set noswapfile                  " disable swap files
 
